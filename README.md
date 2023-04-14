@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **NextJS, NestJS, Datascience, AI, ML, DL and Blockchain**
 
-- ✨ I’m currently a contributor on **Python_Tips** -> https://github.com/karimnyumba/Python_Tips
-
 - 👯 I’m looking to collaborate on **Null**
 
 - 🤝 I’m looking for help with **Null**
