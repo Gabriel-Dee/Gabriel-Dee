@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-dee" alt="gabriel-dee" /></a> </p>
 
-- 🔭 I’m currently working on [VaultLink](https://github.com/Gabriel-Dee/SustainCo) and [Python_Tips](https://github.com/Gabriel-Dee/Python_Tips)
+- 🔭 I’m currently working on [VaultLink](https://github.com/Gabriel-Dee/VaultLink) and [Python_Tips](https://github.com/Gabriel-Dee/Python_Tips)
 
 - 🌱 I’m currently learning **NextJS, NestJS, Datascience, AI, ML, DL and Blockchain**
 
