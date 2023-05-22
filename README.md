@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-dee" alt="gabriel-dee" /></a> </p>
 
 - 🔭 I’m currently working on [SyncVault](https://github.com/Gabriel-Dee/SyncVault) And [Python_Tips](https://github.com/Gabriel-Dee/Python_Tips)
-- 🌱 I’m currently learning **NextJS, NestJS, Datascience, AI, ML, DL and Blockchain**
+- 🌱 I’m currently learning **NextJS, Datascience, AI, ML, DL and Blockchain**
 
 - 👯 I’m looking to collaborate on **Null**
 
