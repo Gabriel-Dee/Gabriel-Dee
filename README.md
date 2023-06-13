@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-dee" alt="gabriel-dee" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/DGJCo/Tencoba](TENCOBA)
+- 🔭 I’m currently working on [https://github.com/DGJCo/Tencoba] TENCOBA
 
 - 🌱 I’m currently learning **NextJS, Datascience, AI, ML, DL and Blockchain**
 
