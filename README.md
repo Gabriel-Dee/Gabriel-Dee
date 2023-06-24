@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **NextJS, Datascience, AI, ML, DL and Blockchain**
 
-- 👯 I’m looking to collaborate on **Null**
+- 👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with **Null**
+- 🤝 I’m looking for help with 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gabriel-Dee](https://github.com/Gabriel-Dee)
 
