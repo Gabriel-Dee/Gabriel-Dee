@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Anything In Datascience**
 
-- 📫 How to reach me **gabrieldee77@gmail.com/**
+- 📫 How to reach me **gabrieldee77@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Gabriel-Dee/Portfolio](https://github.com/Gabriel-Dee/Portfolio)
 
