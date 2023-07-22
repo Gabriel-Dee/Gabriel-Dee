@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Gabriel D Minzemalulu</h1>
+<h1 align="center">Hello 👋,  go by the names Gabriel D Minzemalulu</h1>
 <h3 align="center">A passionate Software Developer and Tech Enthusiast From Tanzania.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-dee&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-dee" /> </p>
