@@ -28,10 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gabe_2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabe_2310" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel minzemalulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel minzemalulu" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/gabriel minzemalulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gabriel minzemalulu" height="30" width="40" /></a>
-<a href="https://instagram.com/g.abe_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g.abe_77" height="30" width="40" /></a>
+
 </p>
 
 ## 🌐 Socials:
