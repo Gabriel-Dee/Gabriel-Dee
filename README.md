@@ -62,3 +62,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-dee&show_icons=true&locale=en" alt="gabriel-dee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-dee&" alt="gabriel-dee" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gabriel-Dee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Dee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
