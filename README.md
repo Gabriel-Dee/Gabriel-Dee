@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-dee" alt="gabriel-dee" /></a> </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gabriel-Dee&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 - 🔭 I’m currently working on [Python100](https://github.com/Pyhton100) and [TENCOBA](https://github.com/DGJCo/Tencoba)
 
 - 🌱 I’m currently learning **NextJS, Datascience, AI, ML, DL and Blockchain**
