@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gabriel-Dee](https://github.com/Gabriel-Dee)
 
-- 💬 Ask me about **Anything In Datascience**
+- 💬 Ask me about **Anything In Datascience and ML**
 
 - 📫 How to reach me **gabrieldee77@gmail.com** or **gabriel.cscu.2018@gmail.com**
 
