@@ -4,7 +4,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gabriel-Dee&icon=3&color=1)](https://visitcount.itsvg.in)
 
-https://www.figma.com/file/uENiLaxGYquXu4cPy8gvvG/Finy---Finance-App---Omnicreativora-(Preview)?type=design&node-id=178-17&mode=design&t=Uvo7yhUoYCDAjj1i-0
 
 
 ## 🏆 GitHub Trophies
