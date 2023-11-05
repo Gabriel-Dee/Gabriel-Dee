@@ -17,8 +17,6 @@
 
 - 👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with 
-
 - 👨‍💻 All of my projects are available at [https://github.com/Gabriel-Dee](https://github.com/Gabriel-Dee)
 
 - 💬 Ask me about **Anything In Datascience and ML**
