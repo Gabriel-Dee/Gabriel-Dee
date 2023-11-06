@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **NextJS, Datascience, AI, ML, DL and Blockchain**
 
-- 👯 I’m looking to collaborate on 
-
 - 👨‍💻 All of my projects are available at [https://github.com/Gabriel-Dee](https://github.com/Gabriel-Dee)
 
 - 💬 Ask me about **Anything In Datascience and ML**
