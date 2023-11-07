@@ -4,8 +4,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gabriel-Dee&icon=3&color=1)](https://visitcount.itsvg.in)
 
-its a holiday
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gabriel-Dee&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
