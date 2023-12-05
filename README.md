@@ -1,4 +1,4 @@
-8<h1 align="center">Hello 👋,I am Gabriel D Minzemalulu</h1>
+<h1 align="center">Hello 👋,I am Gabriel D Minzemalulu</h1>
 <h3 align="center">A passionate Software Developer and Tech Enthusiast From Tanzania.</h3>
 
 ---
